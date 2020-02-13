@@ -1,0 +1,1 @@
+java -jar lib/SpecialSource-1.7.4.jar -i recompiled.jar -o remapped.jar -m mcp-srg.srg
